@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WeuUyyIFzDNNdBnOERjNcaSY/GW0Ab/oMdraMQqFAq4KOn0DboIfH+B6c03BKUcy3YaQs7R62E1QVBQZnwoATQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cleme\\source\\repos\\Peterpaulclemente\\ADETQ2_PETER-PAUL_CLEMENTE\\ADETQ2_PETER-PAUL_CLEMENTE\\ADETQ2_PETER-PAUL_CLEMENTE\\ADETQ2_PETER-PAUL_CLEMENTE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cleme\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
